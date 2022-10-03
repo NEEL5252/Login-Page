@@ -1,0 +1,52 @@
+*{
+    margin: 0; 
+}
+
+header{
+    height: 230px;
+    background-color: #fbcd39;
+    display: flex;
+
+}
+header h3{
+    color: black;
+    font-size: 30px;
+    font-family:sans-serif;
+    margin-left: 15px;
+    margin-top: 60px;
+}
+header h1{
+    color: black;
+    font-size: 45px;
+    font-family:sans-serif;
+    margin-left: 200px;
+    text-align: center;
+}
+
+header nav ul li{
+    text-align: center;
+    display: block;
+    margin-top: 12px ;
+    color: black;
+    background: white;
+    font-size: 25px;
+    border: 15px solid white;
+    border-radius: 120px;
+    margin-left: 70px;
+    font-family:sans-serif;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+.logo{
+    margin-top: 7px;
+    height: 215px;
+    margin-left: 15px;
+}
+.logo2{
+    height: 215px;
+    margin-left: 105px;
+    margin-top: 7px;
+}

@@ -1,0 +1,81 @@
+.img {
+    position: absolute;
+    float: right;
+    bottom: 0;
+    right: 0;
+    width: auto;
+}
+
+
+.container {
+    margin: auto;
+}
+
+.logIn {
+    margin: auto;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.logIn p {
+    margin-top: 0.6%;
+}
+
+.gButton,
+.rButton {
+    background-color: transparent;
+    font-size: 20px;
+    width: 10%;
+    height: 8%;
+    border: 2px solid #fbcd39;
+    padding: 3px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.grButton {
+    margin-top: 1%;
+}
+
+.gButton:hover,
+.rButton:hover {
+    background-color: #fbcd39;
+    transition-duration: 0.6s;
+}
+
+form {
+    margin-top: 1%;
+    margin: 1%;
+}
+
+.email {
+    margin: 1%;
+}
+
+label {
+    text-align: left;
+}
+
+input {
+    margin-top: 0.2%;
+    width: 20%;
+    height: 3.6vh;
+    text-align: center;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+}
+
+.login {
+    font-size: 20px;
+    background-color: #fbcd39;
+    cursor: pointer;
+    width: 10%;
+    border: 2px solid #fbcd39;
+    border-radius: 20px;
+    padding: 3px;
+}
+
+.login:hover {
+    background-color: transparent;
+    transition-duration: 0.6s;
+}
